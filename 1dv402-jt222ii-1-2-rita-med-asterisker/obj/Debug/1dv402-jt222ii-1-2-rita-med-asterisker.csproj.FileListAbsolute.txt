@@ -4,3 +4,9 @@ P:\Labbuppgifter\1dv402-jt222ii-1-2-rita-med-asterisker\1dv402-jt222ii-1-2-rita-
 P:\Labbuppgifter\1dv402-jt222ii-1-2-rita-med-asterisker\1dv402-jt222ii-1-2-rita-med-asterisker\obj\Debug\1dv402-jt222ii-1-2-rita-med-asterisker.csprojResolveAssemblyReference.cache
 P:\Labbuppgifter\1dv402-jt222ii-1-2-rita-med-asterisker\1dv402-jt222ii-1-2-rita-med-asterisker\obj\Debug\1dv402-jt222ii-1-2-rita-med-asterisker.exe
 P:\Labbuppgifter\1dv402-jt222ii-1-2-rita-med-asterisker\1dv402-jt222ii-1-2-rita-med-asterisker\obj\Debug\1dv402-jt222ii-1-2-rita-med-asterisker.pdb
+P:\Labbuppgifter\1dv402-jt222ii-1-2-rita-med-asterisker(2)\1dv402-jt222ii-1-2-rita-med-asterisker\1dv402-jt222ii-1-2-rita-med-asterisker\bin\Debug\1dv402-jt222ii-1-2-rita-med-asterisker.exe.config
+P:\Labbuppgifter\1dv402-jt222ii-1-2-rita-med-asterisker(2)\1dv402-jt222ii-1-2-rita-med-asterisker\1dv402-jt222ii-1-2-rita-med-asterisker\obj\Debug\1dv402-jt222ii-1-2-rita-med-asterisker.exe
+P:\Labbuppgifter\1dv402-jt222ii-1-2-rita-med-asterisker(2)\1dv402-jt222ii-1-2-rita-med-asterisker\1dv402-jt222ii-1-2-rita-med-asterisker\obj\Debug\1dv402-jt222ii-1-2-rita-med-asterisker.pdb
+P:\Labbuppgifter\1dv402-jt222ii-1-2-rita-med-asterisker(2)\1dv402-jt222ii-1-2-rita-med-asterisker\1dv402-jt222ii-1-2-rita-med-asterisker\bin\Debug\1dv402-jt222ii-1-2-rita-med-asterisker.exe
+P:\Labbuppgifter\1dv402-jt222ii-1-2-rita-med-asterisker(2)\1dv402-jt222ii-1-2-rita-med-asterisker\1dv402-jt222ii-1-2-rita-med-asterisker\bin\Debug\1dv402-jt222ii-1-2-rita-med-asterisker.pdb
+P:\Labbuppgifter\1dv402-jt222ii-1-2-rita-med-asterisker(2)\1dv402-jt222ii-1-2-rita-med-asterisker\1dv402-jt222ii-1-2-rita-med-asterisker\obj\Debug\1dv402-jt222ii-1-2-rita-med-asterisker.csprojResolveAssemblyReference.cache
