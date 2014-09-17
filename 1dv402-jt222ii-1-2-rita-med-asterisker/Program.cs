@@ -15,21 +15,15 @@ namespace _1dv402_jt222ii_1_2_rita_med_asterisker
             {
                 switch (rows % 3)
                 { 
-                    case 0:
-                        { 
+                    case 0: 
                             Console.ForegroundColor = ConsoleColor.Yellow;
                             break;
-                        }
                     case 1:
-                        {
                             Console.ForegroundColor = ConsoleColor.Magenta;
                             break;
-                        }
                     case 2:
-                        {
                             Console.ForegroundColor = ConsoleColor.Green;
-                            break;
-                        }
+                            break;            
                 }
                 for (int columns = 0; columns < 39; columns++)
                 {
